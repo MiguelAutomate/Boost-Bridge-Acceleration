@@ -7,7 +7,7 @@ Transform your Boost Mobile store operations with an AI-powered assistant that b
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Raspberry%20Pi-blue)
 ![Status](https://img.shields.io/badge/status-Prototype-yellow)
 
-## 🎯 Problem We Solve
+## Problem We Solve
 
 Running a Boost Mobile store comes with unique challenges that hinder growth and efficiency:
 
@@ -19,7 +19,7 @@ Running a Boost Mobile store comes with unique challenges that hinder growth and
 
 ---
 
-## ✨ Our Solution
+## Our Solution
 
 Boost Bridge Acceleration is a smart, AI-powered assistant designed to revolutionize Boost Mobile store operations by:
 
@@ -31,7 +31,7 @@ Boost Bridge Acceleration is a smart, AI-powered assistant designed to revolutio
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### 1. Omni-Lingual Communication
 * **Real-time translation**: Supports Spanish, Arabic, and other languages for effortless conversations.
@@ -65,7 +65,7 @@ Boost Bridge Acceleration is a smart, AI-powered assistant designed to revolutio
 
 ---
 
-## 💰 Benefits
+## Benefits
 
 ### Revenue Growth
 
