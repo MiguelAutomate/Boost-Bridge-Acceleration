@@ -2,16 +2,15 @@
 
 <div align="center">
   <img src="https://via.placeholder.com/800x400?text=Boost+Bridge+Acceleration" alt="Boost Bridge Acceleration" style="width:100%; max-width:800px; display: block; margin: 0 auto;">
-  <br>
-  [![License](https://img.shields.io/badge/license-Proprietary-red)](LICENSE)
+  <br> [![License](https://img.shields.io/badge/license-Proprietary-red)](LICENSE)
   [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Raspberry%20Pi-blue)](#requirements)
   [![Status](https://img.shields.io/badge/status-Prototype-yellow)](#roadmap)
   [![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen)](#requirements)
-  <br>
-  <p>*Transform your Boost Mobile store operations with AI-powered automation*</p>
-  <br>
-  [Demo](https://your-demo-link.com) &bull; [Features](#key-features) &bull; [Benefits](#benefits) &bull; [Contact](#contact)
+  <br> <p>*Transform your Boost Mobile store operations with AI-powered automation*</p>
+  <br> [Demo](https://your-demo-link.com) &bull; [Features](#key-features) &bull; [Benefits](#benefits) &bull; [Contact](#contact)
 </div>
+
+---
 
 ## 🎯 Problem We Solve
 
