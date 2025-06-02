@@ -13,8 +13,6 @@
   [Demo](https://your-demo-link.com) &bull; [Features](#key-features) &bull; [Benefits](#benefits) &bull; [Contact](#contact)
 </div>
 
----
-
 ## 🎯 Problem We Solve
 
 Running a Boost Mobile store comes with unique challenges that hinder growth and efficiency:
