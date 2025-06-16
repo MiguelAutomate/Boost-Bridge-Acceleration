@@ -10,20 +10,6 @@
 [![AI Powered](https://img.shields.io/badge/AI%20Powered-LLM%20Enhanced-brightgreen)](https://miguelautomate.com)
 
 > Transform your Boost Mobile store operations with AI-powered multilingual support, intelligent sales assistance, and automated data management through a secure, private control panel.
-
-<p align="center">
-  <a href="#executive-summary">Executive Summary</a> •
-  <a href="#problem-statement">Problem Statement</a> •
-  <a href="#solution">Solution</a> •
-  <a href="#business-impact">Business Impact</a> •
-  <a href="#implementation">Implementation</a> •
-  <a href="#architecture">Architecture</a> •
-  <a href="#success-metrics">Success Metrics</a> •
-  <a href="#growth-strategy">Growth Strategy</a> •
-  <a href="#investment-options">Investment Options</a> •
-  <a href="#contact">Contact</a>
-</p>
-
 </div>
 
 ---
