@@ -247,20 +247,6 @@ Our platform utilizes a modular architecture designed for reliability, security,
 - API Access
 - White-label Options
 
-## 💬 Testimonials
-
-> "After implementing the AI Assistant, our monthly revenue increased by 22%. The language capabilities alone have transformed our business in our diverse community."
-> 
-> *— John Smith, Store Owner, Los Angeles*
-
-> "The automation features save my staff hours every day, and the reduction in errors has eliminated costly mistakes that were eating into our profits."
-> 
-> *— Maria Rodriguez, Store Manager, Miami*
-
-> "Customer satisfaction has improved dramatically. Being able to serve customers in their preferred language has given us a strong competitive advantage."
-> 
-> *— David Chen, Franchise Owner, San Francisco*
-
 ## 🚀 Next Steps
 
 Ready to transform your Boost Mobile store operations?
@@ -317,5 +303,5 @@ I'm passionate about developing secure, AI-powered automation solutions that dri
 ---
 
 <div align="center">
-<small>© 2025 Boost Bridge Acceleration | Developed by [Miguel Ocampo](https://miguelautomate.com) | Private Enterprise Solution</small>
+<small>© 2025 Boost Bridge Acceleration | Developed by Miguel Ocampo | Private Enterprise Solution</small>
 </div>
